@@ -1,6 +1,5 @@
-# YSDA Natural Language Processing course
+# YSDA Natural Language Processing course [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
 * Lecture and seminar materials for each week are in ./week* folders
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
 * YSDA homework deadlines are listed in [Anytask course page](https://anytask.org/course/384).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
@@ -46,11 +45,13 @@
   - Lecture: Task-oriented vs general conversation systems. Overview of a framework for task-oriented systems. General conversation: retrieval and generative approaches. Generative models for general conversation. Retrieval-based models for general conversation.
   - Seminar: Simple retrieval-based question answering
   
-- [__week11__](https://github.com/yandexdataschool/nlp_course/tree/master/week11_gan) Adversarial learning & Latent Variables for NLP
+- [__week11__](https://github.com/yandexdataschool/nlp_course/tree/master/week11_gan) __Adversarial learning & Latent Variables for NLP__
   - Lecture: generative models recap, generative adversarial networks, variational autoencoders and why should you care about them.
   - Seminar: semi-supervised dictionary learning with adversarial networks
   
-- __week12-13 - TBA__
+- [__week12__](https://github.com/yandexdataschool/nlp_course/tree/master/week12_summarization) __Text Summarization__
+  - Lecture: Text summarization methods. Extractive vs abstractive. A piece of extractive text summarization. Abstractive text summarization.
+
 
 # Contributors & course staff
 Course materials and teaching performed by
