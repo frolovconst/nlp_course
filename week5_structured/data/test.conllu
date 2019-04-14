@@ -1,0 +1,51 @@
+# text = Al - Zaman : American forces killed Shaikh Abdullah al - Ani , the preacher at the mosque in the town of Qaim , near the Syrian border .
+1	Al	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+2	-	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+3	Zaman	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+4	:	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+5	American	-	ADJ	-	Number=Sing	0	-	_	SpaceAfter=No
+6	forces	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+7	killed	-	VERB	-	Number=Sing	0	-	_	SpaceAfter=No
+8	Shaikh	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+9	Abdullah	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+10	al	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+11	-	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+12	Ani	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+13	,	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+14	the	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+15	preacher	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+16	at	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+17	the	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+18	mosque	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+19	in	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+20	the	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+21	town	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+22	of	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+23	Qaim	-	PROPN	-	Number=Sing	0	-	_	SpaceAfter=No
+24	,	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+25	near	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+26	the	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+27	Syrian	-	ADJ	-	Number=Sing	0	-	_	SpaceAfter=No
+28	border	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+29	.	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+
+# text = [ This killing of a respected cleric will be causing us trouble for years to come . ]
+1	[	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+2	This	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+3	killing	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+4	of	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+5	a	-	DET	-	Number=Sing	0	-	_	SpaceAfter=No
+6	respected	-	ADJ	-	Number=Sing	0	-	_	SpaceAfter=No
+7	cleric	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+8	will	-	AUX	-	Number=Sing	0	-	_	SpaceAfter=No
+9	be	-	AUX	-	Number=Sing	0	-	_	SpaceAfter=No
+10	causing	-	VERB	-	Number=Sing	0	-	_	SpaceAfter=No
+11	us	-	PRON	-	Number=Sing	0	-	_	SpaceAfter=No
+12	trouble	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+13	for	-	ADP	-	Number=Sing	0	-	_	SpaceAfter=No
+14	years	-	NOUN	-	Number=Sing	0	-	_	SpaceAfter=No
+15	to	-	PART	-	Number=Sing	0	-	_	SpaceAfter=No
+16	come	-	VERB	-	Number=Sing	0	-	_	SpaceAfter=No
+17	.	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+18	]	-	PUNCT	-	Number=Sing	0	-	_	SpaceAfter=No
+
