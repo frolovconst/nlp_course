@@ -77,3 +77,4 @@ debian/files
 *.debhelper.log
 
 *.csv
+week3_lm/arxivData.json
